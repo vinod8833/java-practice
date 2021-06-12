@@ -1,18 +1,22 @@
+8788
+7879
+98098989
+Enter any three number :
+sum: 98115656
+
+
 import java.util.Scanner;
 class NumberInput{
 	public static void  main(String[] args) {
-		Double num1 ;
-		Double num2 ;
+		int a,b,c,d=0;
 		Scanner scan = new Scanner(System.in);
-		 	System.out.println("num1 = "  );
-		num1 = Double.parseDouble(scan.nextLine());
-		System.out.println("num2 = ");
-		num2 = Double.parseDouble(scan.nextLine());
-		System.out.println("num3 = "  );
-		num3 = Double.parseDouble(scan.nextLine());
-		 System.out.println(num1 + " + " + num2 + " = " + 
-  (num1 + num2))num3;
-		  
+		 	
+		a=Integer.parseInt(scan.nextLine());
+		b=Integer.parseInt(scan.nextLine());
+		c=Integer.parseInt(scan.nextLine());
+		System.out.println("Enter any three number :");
+				d=a+b+c;  
+		System.out.println("sum: "+d);
 
 			}
 		}	
