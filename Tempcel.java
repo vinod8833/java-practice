@@ -1,3 +1,9 @@
+/*Enter Temprature In Fahrenheit:
+25
+Equivalent Temperature In Celsis = -3.888888888888889
+*/
+
+
 import java.util.Scanner;
 class Tempcel
 { 
