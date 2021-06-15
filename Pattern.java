@@ -1,8 +1,18 @@
+/*
+1 2 3 4 5 6 7 8 
+ 2 3 4 5 6 7 8 
+  3 4 5 6 7 8 
+   4 5 6 7 8 
+    5 6 7 8 
+     6 7 8 
+      7 8 
+       8 
+*/
 class Pattern
 {
     public static void main(String[] args)
     {
-        int rows = 30; // Number of Rows we want to print
+        int rows = 8; // Number of Rows we want to print
           
          
           

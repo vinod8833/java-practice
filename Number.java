@@ -1,3 +1,9 @@
+/*
+Enter number
+76776889
+the value of 76776889 * 2 is 153553778*/
+
+
 import java.util.Scanner;
 class Number{
 	public static void  main(String[] args) {

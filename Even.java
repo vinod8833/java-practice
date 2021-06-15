@@ -1,3 +1,12 @@
+
+/*Enter The Integer : 
+67878786
+Even
+Enter The Integer : 
+45453
+Odd*/
+
+
 import java.util.Scanner;
 class Even{
 	public static void  main(String[] args) {

@@ -1,3 +1,8 @@
+/*
+Enter name 
+vinod
+Hello vinod How are you ?
+*/
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 

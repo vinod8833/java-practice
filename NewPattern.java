@@ -1,3 +1,10 @@
+/*
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+*/
 class NewPattern{
 	public static void main(String args[])
 { 	
@@ -18,7 +25,7 @@ class NewPattern{
 
 }
 }
-		{
+		
 		
 			
 

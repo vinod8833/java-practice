@@ -1,3 +1,11 @@
+/*java Circle2
+Enter radius of circle: 
+765
+perimeter 4804.2*/
+
+
+
+
 import java.util.Scanner;
 class Circle2{  
 	public static void main(String args[]){  

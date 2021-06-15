@@ -1,3 +1,10 @@
+/*
+length = 
+98
+width = 
+89
+Area of Rectangle is: 8722.0
+*/
 import java.util.Scanner;
 class RectangleArea{  
 	public static void main(String args[]){  

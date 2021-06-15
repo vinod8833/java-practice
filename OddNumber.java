@@ -1,3 +1,6 @@
+/*List of Odd numbers from 1 to 10000: 1 3 5 7 9 11 ......10000*/
+
+
 class OddNumber  
 {  
 public static void main(String args[])   

@@ -1,3 +1,11 @@
+/*
+length = 
+89
+width = 
+76
+perimeter of rectangle is : 330.0
+*/
+
 import java.util.Scanner;
 class Rectangle{  
 	public static void main(String args[]){  

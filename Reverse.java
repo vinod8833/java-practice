@@ -1,3 +1,10 @@
+/*
+Enter Name
+vinod
+Reverse name is doniv
+*/
+
+
 import java.util.Scanner;
 import java.io.BufferedReader;
 class Reverse{

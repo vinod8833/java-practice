@@ -1,13 +1,13 @@
-import java.util.Scanner;
-
-/**
+/*
 The Substring 5th Position =  Standing
 The Substring From 5th Index and Excluding 10th Index =  Stan
 The First Position of The Character m =2
 The Position of (m) From 5th Character = 3
 The Compare String = 0
 The Reversed String  ESOB ARDNAHC HSABUS
-**/
+*/
+
+import java.util.Scanner;
 class StringTesting{ 
 	public static void  main(String[] args) {
 		StringBuilder sb =  new StringBuilder("SUBASH CHANDRA BOSE ");

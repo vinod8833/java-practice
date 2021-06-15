@@ -1,3 +1,12 @@
+/*Enter the prinicipal : 
+878
+Enter the rate of interest : 
+86
+Enter the time period : 
+778
+Simple Interest is: 587452.25*/ 
+
+
 import java.util.Scanner;
 class Vvv{
 	public static void  main(String[] args) {

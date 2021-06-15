@@ -1,3 +1,18 @@
+/*Enter name 
+vinod
+Enter email 
+vinodkr8833@gmail.com
+Enter the prinicipal : 
+100000
+Enter the rate of interest : 
+2000
+Enter the time period : 
+34
+Simple Interest is: 6.8E7*/
+
+
+
+
 import java.util.Scanner;
 class NewApplication{
 	public static void  main(String[] args) {

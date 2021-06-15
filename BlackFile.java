@@ -1,3 +1,5 @@
+/*Elements of given array are: -7 -5 5 10 0 3 20 25 12*/ 
+
 class BlackFile{
   
     // Main driver method

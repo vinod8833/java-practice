@@ -1,8 +1,8 @@
-8788
+/*8788
 7879
 98098989
 Enter any three number :
-sum: 98115656
+sum: 98115656*/
 
 
 import java.util.Scanner;

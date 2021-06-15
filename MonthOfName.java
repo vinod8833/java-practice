@@ -1,3 +1,9 @@
+/*Input a month number: 10
+Input a year: 2008
+October 2008 has 31 days*/
+
+
+
 import java.util.Scanner;
 class MonthOfName {
 

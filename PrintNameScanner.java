@@ -1,3 +1,9 @@
+/*
+Enter name 
+vinod
+Hello vinod How are you ?
+*/
+
 import java.util.Scanner;
 
 class PrintNameScanner{

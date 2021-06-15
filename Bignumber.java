@@ -1,3 +1,16 @@
+/*Enter the 1st no
+78
+Enter the 2nd no
+98
+the result of the operation a>b is false.
+
+Enter the 1st no
+876
+Enter the 2nd no
+234
+the result of the operation a>b is true.*/
+
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 class  Bignumber{
